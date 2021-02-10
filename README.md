@@ -41,4 +41,12 @@ jyuyfghj
 - eee
     + eeeA
     + eeeB
-    
+## code of function definition
+`
+def fun():
+    print("welcome to github workshop by apssdc")
+ `
+## function calling
+`
+fun()
+`
