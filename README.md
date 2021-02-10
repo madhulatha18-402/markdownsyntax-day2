@@ -105,3 +105,5 @@ fun()
     - to receive github files from repository to local system
 ## inserting images
 ![madhu](https://github.com/madhulatha18-402/markdownsyntax-day2/blob/master/madhu.jpg)
+## inserting vedios
+[![tom](https://img.youtube.com/vi/X7R-q9rsrtU/0.jpg)](https://www.youtube.com/watch?v=X7R-q9rsrtU)
