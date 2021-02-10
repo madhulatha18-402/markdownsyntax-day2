@@ -66,3 +66,22 @@ fun()
 [gmail](madhulatha7171@gmail.com)
 ## add college website link
 [website](https://www.kits.anna.org.com)
+## git commands
+- git init
+- git status
+- git branch
+- git add filename
+- git remote
+- git remote -v
+- git clone "url"
+- git remote add remotenme "repolink"
+- git log
+- git log --online
+- git revert filename
+- git reset filename
+- git rm filename
+- git config user. name"user name"
+- git config user.email "user email"
+- git commit -m "message"
+- git push remotename branchname
+- git pull remotename branchname
