@@ -1,2 +1,7 @@
-# markdownsyntax-day2
-day2 kits about markdown syntax
+# HOME AUTOMATION BY ALEXA
+## COMPONENTS
+### circuit diagram
+#### analysis
+##### output observation
+###### conclusion
+####### nornal text(not a heading)
