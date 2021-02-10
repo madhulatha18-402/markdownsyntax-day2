@@ -63,6 +63,6 @@ fun()
 [google](https://www.google.com/)
 
 ## add gmail link
-[gmail](https://www.gmail.com)
+[gmail](madhulatha7171@gmail.com)
 ## add college website link
 [website](https://www.kits.anna.org.com)
