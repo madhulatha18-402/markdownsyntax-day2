@@ -104,4 +104,4 @@ fun()
 - git pull remotename branchname
     - to receive github files from repository to local system
 ## inserting images
-![https://github.com/madhulatha18-402/markdownsyntax-day2/blob/master/madhu.jpg]
+![madhu](https://github.com/madhulatha18-402/markdownsyntax-day2/blob/master/madhu.jpg)
