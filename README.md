@@ -68,20 +68,38 @@ fun()
 [website](https://www.kits.anna.org.com)
 ## git commands
 - git init
+    - to initialise repository
 - git status
+    - tell the current status of git 
 - git branch
+    - tells current working branch
 - git add filename
+    - will add ur files into staging area
 - git remote
+    - tells current remote in repository
 - git remote -v
-- git clone "url"
+    - tells u that remote name along with the repository link
+- git clone "repo url"
+    - it will copy the repository files from github into u local system
 - git remote add remotenme "repolink"
+    - it will creates a remote with remote name
 - git log
-- git log --online
+    - it will gives a commited history
+- git log --one line
+    - it will gives a committed history in one line
 - git revert filename
+    - it will undo the changes
 - git reset filename
-- git rm filename
+    - it will reset the file name
+- git rm filename 
+    - removes file name
 - git config user. name"user name"
+    -to set ur user name
 - git config user.email "user email"
+    - to set ur email
 - git commit -m "message"
+    - to commit ur changes along with the messages
 - git push remotename branchname
+    - send files from local system to github server
 - git pull remotename branchname
+    - to receive github files from repository to local system
