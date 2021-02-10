@@ -61,3 +61,7 @@ fun()
 `
 ## links
 [google](https://www.google.com/)
+
+## add gmail link
+## add college website link
+[gmail](https://www.gmail.com)
